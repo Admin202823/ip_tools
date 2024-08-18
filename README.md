@@ -23,7 +23,7 @@ You can download only the python script do you need (The 2 files are not linked 
 
 **Linux :**
 
-- Create a folder : "mkdir ip_tools
+- Create a folder : `mkdir ip_tools`
 
 ## How to use :
 
