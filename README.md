@@ -27,6 +27,6 @@ You can download only the python script do you need (The 2 files are not linked 
 
 ## How to use :
 
-### The script : [ip_extractor.py](script/ip_extractor.py)
+### The script [ip_extractor.py](script/ip_extractor.py) :
 
-### The script : [country_extractor.py](script/country_extractor.py)
+### The script [country_extractor.py](script/country_extractor.py) :
