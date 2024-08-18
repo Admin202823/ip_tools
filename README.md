@@ -12,7 +12,7 @@ You can download only the python script do you need (The 2 files are not linked 
 - Open cmd :
 `win+r`, type `cmd` and press `enter`.
 > [!IMPORTANT]
-> (If you launch it in administator (you are in "System32" foler) it's recommanded to go in an other foler, your desktop folder for exemple (C:/Users/{your username}/Desktop/).
+> If you launch it in administator (you are in "System32" foler) it's recommanded to go in an other foler, your desktop folder for exemple (C:/Users/{your username}/Desktop/).
 - Create a folder : `mkdir ip_tools`
 - Go to the folder : `cd ip_tools`
 - Download the files : `wget https://github.com/Admin202823/ip_tools/archive/refs/heads/main.zip`
