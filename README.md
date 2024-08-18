@@ -5,7 +5,7 @@
 You can download only the python script do you need (The 2 files are not linked and run just 1 script work)
 
 > [!WARNING]
-> This is a python project and it need python was installed on your computer to work.
+> This is a python project and it need's python was installed on your computer to work.
 
 **Windows :**
 
