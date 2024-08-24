@@ -25,4 +25,8 @@ You can download only the python script do you need (The 2 files are not linked 
 
 ### The script [ip_extractor.py](script/ip_extractor.py) :
 
+This script can used to extract a list of IP from a file (a log for example, I have used this script to extract IP from my sshd log).
+
+To use this script : execute his (`python ip_extractor.py`), 
+
 ### The script [country_extractor.py](script/country_extractor.py) :
