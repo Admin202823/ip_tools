@@ -33,3 +33,8 @@ To use this script : execute his (`python ip_extractor.py`) in the "script" fold
 
 This script can get the country of a ip list (extracted by [ip_extractor.py](script/ip_extractor.py) for exemple), it generates a graph and a output list with the country of the ip.
 
+To use this script : execute his (`python country_extractor.py`) in the "script" folder.
+
+#### Exemples of Generated graph :
+
+![ip_extracted_country_pie_chart](https://github.com/user-attachments/assets/3ebae6d0-02a2-4d4b-a715-3892180aedee)
